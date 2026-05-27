@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatordncrypt",
+        "uuid": 7931227,
+        "checksum": "0t39"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
